@@ -4,7 +4,7 @@
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 [![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
 
-The project is created original by CHEF-KOCH under the GNU General Public License v3.0.
+The project is created original by [CHEF-KOCH](https://github.com/CHEF-KOCH) under the [GNU General Public License v3.0](https://github.com/CHEF-KOCH/Firefox-prefs.js-cleaner/blob/master/LICENSE).
 
 
-This script should be run from your Firefox profile directory, it will remove any entries from prefs.js that also exist in user.js. This will allow inactive preferences to be reset to their default values.
+This script should be run from your Mozilla Firefox profile directory, it will remove any entries from prefs.js that also exist in user.js. This will allow inactive preferences to be reset to their default values.
